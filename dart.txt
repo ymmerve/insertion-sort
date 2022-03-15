@@ -1,3 +1,0 @@
-Dart'la ilgili bilgiler öğrenmek için => Dart.dev
-Dart'ta kodlar yazmak için kendi sitesi => Dartpad.dev
-Flutter eğitimi dökümantasyonu => https://docs.google.com/document/d/1XtGq_3ddgZXfsnLdoIEpnSYOlF2467ribgugrYWioog/edit
